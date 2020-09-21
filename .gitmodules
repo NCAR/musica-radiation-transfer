@@ -1,0 +1,3 @@
+[submodule "photo-utils"]
+	path = photo-utils
+	url = https://github.com/NCAR/musica-photo-utils
