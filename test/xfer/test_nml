@@ -1,0 +1,5 @@
+&drv_opts
+ env_conds_file='data/MusicBox_env_cond_1col_c190109.nc'
+ env_conds_lat=10.
+ env_conds_lon=120.
+/
